@@ -1,0 +1,13 @@
+References:
+1. https://keras.io/examples/timeseries/timeseries_weather_forecasting/
+2. https://www.tensorflow.org/tutorials/structured_data/time_series
+3. https://medium.com/analytics-vidhya/time-series-forecasting-a-complete-guide-d963142da33f 
+4. N. I. Sapankevych and R. Sankar, "Time Series Prediction Using Support Vector Machines: A Survey," 
+5. L. J. Cao and F. E. H. Tay, "Support vector machine with adaptive parameters in financial time series forecasting,"
+6. S. Siami-Namini, N. Tavakoli and A. S. Namin, "The Performance of LSTM and BiLSTM in Forecasting Time Series,"
+7. Peng Lv and Lili Yue, "Short-term wind speed forecasting based on non-stationary time series analysis and ARCH model," 
+8. Z. Wang and Y. Lou, "Hydrological time series forecast model based on wavelet de-noising and ARIMA-LSTM,"
+9. S. Siami-Namini, N. Tavakoli and A. Siami Namin, "A Comparison of ARIMA and LSTM in Forecasting Time Series,"
+10. S. H. Rafi, Nahid-Al-Masood, S. R. Deeba and E. Hossain, "A Short-Term Load Forecasting Method Using Integrated CNN and LSTM Network,"
+
+Datasets
