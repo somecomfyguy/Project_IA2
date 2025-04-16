@@ -22,3 +22,8 @@ Datasets
 1. https://github.com/taohan10200/WEATHER-5K
 2. https://www.kaggle.com/datasets/parthdande/timeseries-weather-dataset
 3. https://github.com/WenjieDu/TSDB?tab=readme-ov-file
+
+Rezumat:
+1. trebuie sa compar cateva dintre arhitecturile deja existente si sa incerc sa fac o arhitectura folosind teorie cutting-edge
+2. trebuie sa stabilesc 3 studii de ablatie pentru modelele folosite
+3. redactarea articolului
