@@ -25,5 +25,11 @@ Datasets
 
 Rezumat:
 1. trebuie sa compar cateva dintre arhitecturile deja existente si sa incerc sa fac o arhitectura folosind teorie cutting-edge
+- 1 arhitectura luata de-a gata
+- 2 arhitecturi antrenate si tunate pe setul meu
+- 1 arhitectura noua bazata pe elemente experimentale
 2. trebuie sa stabilesc 3 studii de ablatie pentru modelele folosite
+- studiu de reducere a parametrilor pentru microcontroller/raspberry pi
+- studiu 
+- studiu 
 3. redactarea articolului
