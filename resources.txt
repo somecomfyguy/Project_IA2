@@ -10,18 +10,9 @@ References:
 9. S. Siami-Namini, N. Tavakoli and A. Siami Namin, "A Comparison of ARIMA and LSTM in Forecasting Time Series,"
 10. S. H. Rafi, Nahid-Al-Masood, S. R. Deeba and E. Hossain, "A Short-Term Load Forecasting Method Using Integrated CNN and LSTM Network,"
 11. P. S. Mung, S. Phyu, "Time Series Weather Data Forecasting Using Deep Learning"
-12. https://github.com/Alro10/deep-learning-time-series?tab=readme-ov-file#Datasets
-13. https://github.com/sktime/pytorch-forecasting?tab=readme-ov-file
-14. https://github.com/google-research/timesfm?tab=readme-ov-file
-15. https://github.com/unit8co/darts
-16. https://github.com/skforecast/skforecast
-17. https://github.com/AIStream-Peelout/flow-forecast?tab=readme-ov-file
-18. https://github.com/timeseriesAI/tsai
 
 Datasets
-1. https://github.com/taohan10200/WEATHER-5K
-2. https://www.kaggle.com/datasets/parthdande/timeseries-weather-dataset
-3. https://github.com/WenjieDu/TSDB?tab=readme-ov-file
+12. https://www.kaggle.com/datasets/parthdande/timeseries-weather-dataset
 
 Rezumat:
 1. trebuie sa compar cateva dintre arhitecturile deja existente si sa incerc sa fac o arhitectura folosind teorie cutting-edge
