@@ -1,1 +1,2 @@
 # Project_IA2
+This project aims to perform weather forecast based on time series from a number of selected datasets, using reference models trained on the data in question, as well as a novel bleeding-edge model, which are then paced though a number of ablation studies to test performance. 
